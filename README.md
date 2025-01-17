@@ -1,2 +1,2 @@
-<P> Muhammad Uzair </P>
-<P> 22F-BSAI-10 </P>
+<p> Muhammad Uzair </p>
+<p> 22F-BSAI-10 </p>
